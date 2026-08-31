@@ -8,6 +8,25 @@ h1 {
     text-align: center;
 }
 
+.card {
+    background: white;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px gray;
+}
+
+.card h2 {
+    color: navy;
+}
+
+.card p {
+    font-size: 30px;
+    color: green;
+}
+
+
+
 button {
     background-color: green;
     color: white;
